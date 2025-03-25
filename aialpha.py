@@ -54,7 +54,7 @@ risk_per_trade = 0.02
 min_risk_reward_ratio = 3
 
 # --- News Configuration ---
-NEWS_API_KEY = '16e4f1d86440436aa7391b05f0bf839d'
+NEWS_API_KEY = 'YOUR_API_KEY_HERE'
 NEWS_API_URL = 'https://newsapi.org/v2/everything'
 FOREX_FACTORY_URL = 'https://www.forexfactory.com/calendar'
 TRADINGVIEW_URL = 'https://www.tradingview.com/news/'
